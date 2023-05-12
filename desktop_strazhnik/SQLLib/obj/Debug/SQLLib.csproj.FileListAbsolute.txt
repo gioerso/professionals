@@ -1,0 +1,12 @@
+C:\Users\User06\Desktop\Session3\Lib\Straznik\SQLLib\bin\Debug\SQLLib.dll
+C:\Users\User06\Desktop\Session3\Lib\Straznik\SQLLib\bin\Debug\SQLLib.pdb
+C:\Users\User06\Desktop\Session3\Lib\Straznik\SQLLib\obj\Debug\SQLLib.csproj.AssemblyReference.cache
+C:\Users\User06\Desktop\Session3\Lib\Straznik\SQLLib\obj\Debug\SQLLib.csproj.CoreCompileInputs.cache
+C:\Users\User06\Desktop\Session3\Lib\Straznik\SQLLib\obj\Debug\SQLLib.dll
+C:\Users\User06\Desktop\Session3\Lib\Straznik\SQLLib\obj\Debug\SQLLib.pdb
+C:\Users\User06\Desktop\Session4\Straznik\SQLLib\bin\Debug\SQLLib.dll
+C:\Users\User06\Desktop\Session4\Straznik\SQLLib\bin\Debug\SQLLib.pdb
+C:\Users\User06\Desktop\Session4\Straznik\SQLLib\obj\Debug\SQLLib.csprojAssemblyReference.cache
+C:\Users\User06\Desktop\Session4\Straznik\SQLLib\obj\Debug\SQLLib.csproj.CoreCompileInputs.cache
+C:\Users\User06\Desktop\Session4\Straznik\SQLLib\obj\Debug\SQLLib.dll
+C:\Users\User06\Desktop\Session4\Straznik\SQLLib\obj\Debug\SQLLib.pdb

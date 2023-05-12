@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33530.505
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DesktopHranitel", "DesktopHranitel\DesktopHranitel.csproj", "{9D604C18-150C-475E-81EF-2EFA9BFE7640}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClassLibrary", "ClassLibrary\ClassLibrary.csproj", "{618149F3-C2D4-4D67-908B-4474A0F3B533}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9D604C18-150C-475E-81EF-2EFA9BFE7640}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9D604C18-150C-475E-81EF-2EFA9BFE7640}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9D604C18-150C-475E-81EF-2EFA9BFE7640}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9D604C18-150C-475E-81EF-2EFA9BFE7640}.Release|Any CPU.Build.0 = Release|Any CPU
+		{618149F3-C2D4-4D67-908B-4474A0F3B533}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{618149F3-C2D4-4D67-908B-4474A0F3B533}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{618149F3-C2D4-4D67-908B-4474A0F3B533}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{618149F3-C2D4-4D67-908B-4474A0F3B533}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F55D2C4B-7CDA-4577-B95E-E950C9E6E08D}
+	EndGlobalSection
+EndGlobal

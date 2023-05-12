@@ -1,0 +1,16 @@
+C:\Users\User06\Desktop\Session2\DesktopHranitel\DesktopHranitel\bin\Debug\DesktopHranitel.exe.config
+C:\Users\User06\Desktop\Session2\DesktopHranitel\DesktopHranitel\bin\Debug\DesktopHranitel.exe
+C:\Users\User06\Desktop\Session2\DesktopHranitel\DesktopHranitel\bin\Debug\DesktopHranitel.pdb
+C:\Users\User06\Desktop\Session2\DesktopHranitel\DesktopHranitel\obj\Debug\DesktopHranitel.csproj.AssemblyReference.cache
+C:\Users\User06\Desktop\Session2\DesktopHranitel\DesktopHranitel\obj\Debug\DesktopHranitel.csproj.SuggestedBindingRedirects.cache
+C:\Users\User06\Desktop\Session2\DesktopHranitel\DesktopHranitel\obj\Debug\DesktopHranitel.LoginForm.resources
+C:\Users\User06\Desktop\Session2\DesktopHranitel\DesktopHranitel\obj\Debug\DesktopHranitel.Properties.Resources.resources
+C:\Users\User06\Desktop\Session2\DesktopHranitel\DesktopHranitel\obj\Debug\DesktopHranitel.csproj.GenerateResource.cache
+C:\Users\User06\Desktop\Session2\DesktopHranitel\DesktopHranitel\obj\Debug\DesktopHranitel.csproj.CoreCompileInputs.cache
+C:\Users\User06\Desktop\Session2\DesktopHranitel\DesktopHranitel\obj\Debug\DesktopHranitel.exe
+C:\Users\User06\Desktop\Session2\DesktopHranitel\DesktopHranitel\obj\Debug\DesktopHranitel.pdb
+C:\Users\User06\Desktop\Session2\DesktopHranitel\DesktopHranitel\obj\Debug\DesktopHranitel.DefenderUserForm.resources
+C:\Users\User06\Desktop\Session2\DesktopHranitel\DesktopHranitel\obj\Debug\DesktopHranitel.UnitUserForm.resources
+C:\Users\User06\Desktop\Session2\DesktopHranitel\DesktopHranitel\bin\Debug\ClassLibrary.dll
+C:\Users\User06\Desktop\Session2\DesktopHranitel\DesktopHranitel\bin\Debug\ClassLibrary.pdb
+C:\Users\User06\Desktop\Session2\DesktopHranitel\DesktopHranitel\obj\Debug\DesktopHranitel.csproj.CopyComplete
